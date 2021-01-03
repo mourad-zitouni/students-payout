@@ -1,0 +1,1 @@
+FROM arm64v8/php:7.3-apache
